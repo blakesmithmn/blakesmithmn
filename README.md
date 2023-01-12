@@ -16,7 +16,7 @@ Currently Learning:
 
 
 
-<td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blakesmithmn&layout=compact&count_private=true&langs_count=8" /></td>
+<td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blakesmithmn&layout=compact&count_private=true&langs_count=8&theme=dark" /></td>
 
 
 
