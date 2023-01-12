@@ -12,7 +12,9 @@ I'm Skilled in:
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
 
-Currently Learning:
+Currently Learning: 
+![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) 
+![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)
 
 
 
