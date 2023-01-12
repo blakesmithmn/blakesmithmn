@@ -7,8 +7,7 @@ Foodie, Gamer, and aspiring Globetrotter ✈️.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blakesmithmn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blake.smith.mn@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicabenedicto&layout=compact&theme=merko&text_color=FFFFFF&icon_color=5DE200&border_color=0053FF)](https://github.com/blakesmithmn)
-
+![Blake's GitHub stats](https://github-readme-stats.vercel.app/api?username=blakesmithmn&show_icons=true)
 
 <!--
 **blakesmithmn/blakesmithmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
