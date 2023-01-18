@@ -23,7 +23,7 @@ Foodie, Gamer, and aspiring Globetrotter ✈️.
  </div>
 
 
-#### Currently Learning: 
+#### 2023 Goals: 
 
 * ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) 
 * ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)
