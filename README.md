@@ -1,17 +1,22 @@
-### Hi there 👋
+### Hey It's Blake!
+:camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi:
 
-LEGO kid turned Software Developer - tackling puzzles 🧩 and problems 🤔 for a living.
+LEGO kid turned Software Developer - tackling puzzles 🧩 and problems for a living.
 
-Foodie, Gamer, Concertgoer, and aspiring Globetrotter ✈️.
+Foodie, Gamer, Concertgoer, and aspiring Globetrotter :airplane:.
 
-Currently seeking full time employment as a Web Developer / Software Engineer 💼💻
+Currently seeking full time employment as a Web Developer / Software Engineer :computer: :briefcase:
 
-🏠: Minneapolis, MN
+:house: : Minneapolis, MN
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blakesmithmn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blake.smith.mn@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dualists?si=0a03726ad4614546)
 
-
+### :video_game: I game on:
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![BNet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![NintendoSwitch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
  ## :computer: Languages & Frameworks:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -42,21 +47,16 @@ Currently seeking full time employment as a Web Developer / Software Engineer �
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+ ## :hammer: :wrench: Other Tools:
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+ ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+ ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
 <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blakesmithmn&layout=compact&count_private=true&langs_count=8&theme=dark" /></td>
 
 
 
-<!--
-**blakesmithmn/blakesmithmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
