@@ -1,4 +1,4 @@
-### Hey It's Blake!
+### Blake (He/Him) :rainbow:
 :camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi:
 
 LEGO kid turned Software Developer - tackling puzzles 🧩 and problems for a living.
