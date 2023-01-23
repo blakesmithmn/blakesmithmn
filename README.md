@@ -9,13 +9,13 @@
 
 ``` LEGO kid turned Software Developer - tackling puzzles 🧩 and problems for a living. ```
 
-``` Foodie, Gamer, Concertgoer, and aspiring Globetrotter :airplane: ```
+ Foodie, Gamer, Concertgoer, and aspiring Globetrotter :airplane: 
 
-``` Currently seeking full time employment as a Web Developer / Software Engineer :computer: :briefcase: ```
+ Currently seeking full time employment as a Web Developer / Software Engineer :computer: :briefcase: 
 
-``` :house: : Minneapolis, MN ```
+ :house: : Minneapolis, MN 
 
-``` :camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi: ```
+ :camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi: 
 
 
 ### :video_game: I game on:
@@ -44,7 +44,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
  
-<div>
+
 
 #### 2023 Learning Goals: 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +52,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<div>
+
 
  ## :hammer: :wrench: Other Tools:
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -62,6 +62,8 @@
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+ ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blakesmithmn&layout=compact&count_private=true&langs_count=8&theme=dark" /></td>
 
