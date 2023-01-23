@@ -14,18 +14,12 @@ Currently seeking full time employment as a Web Developer / Software Engineer ðŸ
 
 
  ## :computer: Languages & Frameworks:
-
+ <div>
+ [Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
  <div>
     
-   <img align="center" alt="blake-JS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="blake-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="blake-MUI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-   <img align="center" alt="blake-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="blake-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-
-  <img align="center" alt="blake-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="blake-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+ 
 
 
 #### 2023 Goals: 
