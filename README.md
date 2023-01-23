@@ -9,13 +9,13 @@
 
 ``` LEGO kid turned Software Developer - tackling puzzles 🧩 and problems for a living. ```
 
-Foodie, Gamer, Concertgoer, and aspiring Globetrotter :airplane:.
+``` Foodie, Gamer, Concertgoer, and aspiring Globetrotter :airplane: ```
 
-Currently seeking full time employment as a Web Developer / Software Engineer :computer: :briefcase:
+``` Currently seeking full time employment as a Web Developer / Software Engineer :computer: :briefcase: ```
 
-:house: : Minneapolis, MN
+``` :house: : Minneapolis, MN ```
 
-:camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi:
+``` :camera: :evergreen_tree: :computer: :cherry_blossom: :video_game: :cactus: :airplane: :sushi: ```
 
 
 ### :video_game: I game on:
