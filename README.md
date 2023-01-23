@@ -4,6 +4,8 @@ LEGO kid turned Junior Developer - tackling puzzles and problems for a living.
 
 Foodie, Gamer, and aspiring Globetrotter ✈️.
 
+Currently seeking full time employment as a Web Developer / Software Engineer 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blakesmithmn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blake.smith.mn@gmail.com)
 
