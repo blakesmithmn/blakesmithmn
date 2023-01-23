@@ -42,12 +42,6 @@ Currently seeking full time employment as a Web Developer / Software Engineer ðŸ
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-
-* ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) 
-* ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)
-
-
 <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blakesmithmn&layout=compact&count_private=true&langs_count=8&theme=dark" /></td>
 
 
