@@ -16,9 +16,8 @@ Currently seeking full time employment as a Web Developer / Software Engineer ðŸ
  ## :computer: Languages & Frameworks:
 
  <div>
-    <img align="center" alt="blake-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
-   <img align="center" alt="blake-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    
+   <img align="center" alt="blake-JS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)">
    <img align="center" alt="blake-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="blake-MUI" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
    <img align="center" alt="blake-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
